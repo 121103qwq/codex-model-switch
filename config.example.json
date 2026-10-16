@@ -1,0 +1,7 @@
+{
+  "_说明": "endpoint 填 API 基础地址，通常以 /v1 结尾，不要加 /responses；api_key 填该端点的 Key；model 填服务商的模型 ID。",
+  "endpoint": "https://api.example.com/v1",
+  "api_key": "YOUR_API_KEY",
+  "model": "YOUR_MODEL_ID",
+  "port": 18766
+}
